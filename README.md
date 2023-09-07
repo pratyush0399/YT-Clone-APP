@@ -8,4 +8,3 @@ Live Application
 
 Locally Hosted 
 
-https://github.com/pratyush0399/YT-Clone-App/commit/29afe61ad60ce3c7ec8abb2798e8d555a0e36d82#commitcomment-126669176
