@@ -7,4 +7,6 @@ Live Application
 
 
 Locally Hosted 
+![Screenshot 2023-09-07 at 10-12-53 YT Clone](https://github.com/pratyush0399/YT-Clone-App/assets/66222022/d52b3e39-bb42-444f-a08f-f287c70a0686)
+
 
